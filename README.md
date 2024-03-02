@@ -1,5 +1,8 @@
-1. Please input "_node index.js {ACCESS TOKEN}_" to start the application
-   ${ACCESS TOKEN} is optional
+1. Environment Setup and Start<br>
+    * Cloning the repository
+    * In terminal, input "`npm install`" to install the modules
+    * After the modules are ready, input "`node index.js {ACCESS TOKEN}`" to start the application<br>
+      ${ACCESS TOKEN} is optional
 2. One-time Input Token Validation<br>
    The application's token validation function has been thoroughly tested using a predefined token. In the event that your token
    fails validation, the application will seamlessly switch to using the predefined token to ensure uninterrupted functionality.
