@@ -27,5 +27,5 @@ const main = async () => {
 
    await scheduledJob();
 };
-// console.log("global - ", global.__basedir);
+
 await main();
